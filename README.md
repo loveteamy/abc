@@ -1,2 +1,0 @@
-# abc
-Bài AI
